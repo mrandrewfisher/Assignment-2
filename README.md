@@ -18,7 +18,8 @@ This notebook is designed for a technical audience.
 - LSE_DA201_Assignment_template-Copy1.ipynb    
       a copy notebook for backup purposes
      
-- Fisher_Andy_DA201_Assignment_Presentation.mp4
+- Link to presentation
+      a hyperlink to the file: Fisher_Andy_DA201_Assignment_Presentation.mp4
       a short presentation outlining the analysis process, 
       highlighting key visualisations and their features,
       recommendations and conclusions that can be drawn
