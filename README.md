@@ -11,11 +11,11 @@ This Github repository contains the following:
        and identification of trends and patterns in the data.
 This report is designed for a technical audience.
        
-- LSE_DA201_Assignment_template.ipynb
+- Fisher_Andy__DA201_Assignment_Notebook.ipynb
       a jupyter notebook of the python code used to wrangle data, visualise outputs and commentary to explain process
 This notebook is designed for a technical audience.
       
-- LSE_DA201_Assignment_template-Copy1.ipynb    
+- Fisher_Andy__DA201_Assignment_Notebook-Copy.ipynb    
       a copy notebook for backup purposes
      
 - Link to presentation
